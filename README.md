@@ -21,33 +21,23 @@ A PropKill gamemode created for Garry's Mod
 ![Interface](https://i.imgur.com/V8K4mLh.jpg)
 
 ### Installation
-1. Place *PropKill-master* folder inside your Garry's Mod gamemodes folder.
-2. Rename *PropKill-master* to *propkill*
-3. Add gamemode "propkill" to your autoexec.cfg
-4. ULX is optional, all the commands in the *_extras* folder are designed to work with ULX
+1. Git clone or Download ZIP from *Code* tab.
+2. Place *PropKill-master* folder inside your Garry's Mod gamemodes folder.
+3. Rename *PropKill-master* to *propkill*
+4. Select *PropKill by G-Force* on gamemodes tab
+5. ULX is optional, all the commands in the *_extras* folder are designed to work with ULX
 
-  ULib: https://github.com/Nayruden/Ulysses/ulib
+  ULib:
+  Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=557962238
+  Github: https://github.com/TeamUlysses/ulib
 
-  ULX: https://github.com/Nayruden/Ulysses/ulx
-5. [ULX] Copy *addons* folder from the *_extras* folder into your main Garry's Mod directory
-6. Join your server and test it out!
+  ULX:
+  Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=557962280
+  Github: https://github.com/TeamUlysses/ulx
+
+6. [ULX] Copy *addons* folder from the *_extras* folder into your main Garry's Mod directory
+7. Join your server and test it out!
 
 ### Credits (in no particular order):
 * G-Force for Creating the gamemode
 * Iced Coffee for porting the gamemode originally to GM13
-
-### Known PropKill servers
-#### Australia
-* Iced Coffee's Propkill (Sydney) (pk.icedd.coffee:27015)
-* Monumental Gaming | Propkill/HvH/Deathmatch (119.252.191.90:27020)
-
-#### Europe
-* David's EU Prop Kill (178.32.57.83:27018)
-* [CE] Propkill (37.120.160.136:27017)
-
-#### USA
-* Gage's US Prop Kill | RPers Welcome | Now giving lessons! | (74.91.124.70:27016)
-* Brek's Propkill | (74.91.122.41:27015)
-
-#### UK
-* [UK] Propkill | InternetFreinds :D | (185.38.148.5:27075)
