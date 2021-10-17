@@ -42,20 +42,8 @@ RunConsoleCommand( "prop_active_gib_max_fade_time", 1 )
 RunConsoleCommand( "props_break_max_pieces", 0 )
 RunConsoleCommand( "props_break_max_pieces_perframe", 0 )
 
-RunConsoleCommand( "sbox_maxprops", 10 )
 RunConsoleCommand( "sbox_noclip", 0 )
 RunConsoleCommand( "sbox_godmode", 0 )
-
-RunConsoleCommand( "sv_airaccelerate", 1000 )
-RunConsoleCommand( "sv_sticktoground", 0 )
-
--- Higher rates!
-RunConsoleCommand( "sv_mincmdrate", 33 )
-RunConsoleCommand( "sv_maxcmdrate", 100 )
-RunConsoleCommand( "sv_minupdaterate", 33 )
-RunConsoleCommand( "sv_maxupdaterate", 100 )
-RunConsoleCommand( "sv_minrate", 10000 )
-RunConsoleCommand( "sv_maxrate", 100000 )
 
 function GM:ShutDown()
 	self:Msg( "Saving stats..." )
