@@ -1,12 +1,36 @@
-"PropKill"
+"propkill"
 {
-    "name"  "PropKill by G-Force"
-    "version"   "2"
-
-    "author_name"   "G-Force"
-
-	"mappattern"
+	"base"		"base"
+	"title"		"PropKill by G-Force"
+	"category"	"pvp"
+	"maps"		"^rp_"
+	"menusystem"	"1"
+	
+	"settings"
 	{
-		"1"		"^rp_"
+		1
+		{
+			"name"		"sv_sticktoground"
+			"text"		"Stick to Ground"
+			"type"		"CheckBox"
+			"default"	"1"
+		}
+		
+		2
+		{
+			"name"		"sbox_maxprops"
+			"text"		"Max Props"
+			"type"		"Numeric"
+			"default"	"2"
+		}
+		
+		3
+		{
+			"name"		"sv_airaccelerate"
+			"text"		"Air Accelerate"
+			"type"		"Numeric"
+			"default"	"10"
+		}
+	
 	}
 }
