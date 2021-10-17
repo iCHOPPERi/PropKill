@@ -13,7 +13,7 @@
 			"name"		"sv_sticktoground"
 			"text"		"Stick to Ground"
 			"type"		"CheckBox"
-			"default"	"1"
+			"default"	"0"
 		}
 		
 		2
@@ -29,7 +29,7 @@
 			"name"		"sv_airaccelerate"
 			"text"		"Air Accelerate"
 			"type"		"Numeric"
-			"default"	"10"
+			"default"	"1000"
 		}
 	
 	}
